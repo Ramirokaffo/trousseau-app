@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634834007732",
+    "project_id": "trousseau-app",
+    "storage_bucket": "trousseau-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634834007732:android:4d9521430dd6cce78289e1",
+        "android_client_info": {
+          "package_name": "com.trousseau.app.trousseau"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJxv1S8Qsq4aUnsh-mgvNcneu-YR2Uw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
